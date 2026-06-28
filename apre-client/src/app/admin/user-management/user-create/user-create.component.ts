@@ -41,7 +41,8 @@ import { environment } from '../../../../environments/environment';
         </div>
 
         <div class="form__actions">
-          <input type="submit" class="button button--primary" value="Submit">
+          <!-- Updated Button to Add New User instead of Submit -->
+          <input type="submit" class="button button--primary" value="Add New User">
         </div>
       </form>
       <br />
